@@ -1,9 +1,18 @@
-import React from 'react'
+import React, { useEffect } from "react";
+import { FaArrowRight } from "react-icons/fa";
+import AOS from "aos";
+import "aos/dist/aos.css";
 
 const Services = () => {
-    return (
-        <div>Services</div>
-    )
-}
+  useEffect(() => {
+    AOS.init({
+      offset: 200,
+      duration: 400,
+      easing: "ease-in-sine",
+    });
+  }, []);
 
-export default Services
+  return <div>Services</div>;
+};
+
+export default Services;

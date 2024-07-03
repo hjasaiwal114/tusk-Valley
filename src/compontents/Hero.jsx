@@ -57,8 +57,8 @@ const Hero = () => {
           data-aos="zoom-in"
           data-aos-delay="1000"
           src={herobanner}
-          className="lg:w-[750px] lg:h-[550px] w-full h-auto"
-          alt="Hero Banner"
+          className="lg:w-[750px] lg:h-[550px]"
+          alt=""
         />
       </div>
     </section>
