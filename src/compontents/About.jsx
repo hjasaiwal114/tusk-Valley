@@ -1,9 +1,19 @@
-import React from 'react'
+import React, { useEffect } from "react";
+import about from "../assets/about.png";
+import { FaChevronCircleRight } from "react-icons/fa";
+import AOS from "aos";
+import "aos.dist/aos.css";
 
 const About = () => {
-    return (
-        <div>About</div>
-    )
-}
+  useEffect(() => {
+    AOS.init({
+      offset: 200,
+      duration: 400,
+      easing: "ease-in-sine",
+    });
+  }, []);
 
-export default About
+  return <div>About</div>;
+};
+
+export default About;
