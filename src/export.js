@@ -21,9 +21,9 @@ export const Teaminfo = [
     icon: icon6,
     title: "SUNNY ABHRAHAM",
     label: "CONSULTANT",
-  }
+  },
   
-]
+];
 
 export const servicesinfo = [
   {
