@@ -7,6 +7,7 @@ import Counter from "./compontents/Counter";
 import Pricing from "./compontents/Pricing";
 import Clients from "./compontents/Clients";
 import Contact from "./compontents/Contact";
+import Team from "./compontents/Team";
 import Footer from "./compontents/Footer";
 
 const App = () => {

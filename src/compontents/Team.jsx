@@ -28,7 +28,7 @@ const Team = () => {
             key={index}
             className="flex flex-col justify-center items-start gap-6"
           >
-            <img src={item.icon} alt="" className="w-24 h-24" />
+            <img src={item.icon} alt="" className="w-24 h-24 rounded-lg" />
             <h1 className="text-[26px] text-white font-semibold font-ubuntu">
               {item.title}
             </h1>
