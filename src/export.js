@@ -1,11 +1,34 @@
 import icon1 from "./assets/icon1.png";
 import icon2 from "./assets/icon2.png";
 import icon3 from "./assets/icon3.png";
+import icon4 from "./assets/icon4.png";
+import icon5 from "./assets/icon5.png";
+import icon6 from "./assets/icon6.png";
+
+
+export const Teaminfo = [
+  {
+    icon: icon4,
+    title: "BENSON ABHRAHAM",
+    label: "CONSULTANT",
+  },
+  {
+    icon: icon5,
+    title: "ASHISH A BENSON",
+    label: "IT CONSULTANT",
+  },
+  {
+    icon: icon6,
+    title: "SUNNY ABHRAHAM",
+    label: "CONSULTANT",
+  }
+  
+]
 
 export const servicesinfo = [
   {
     icon: icon1,
-    title: "Social Media Strategy Development",
+    title: "Digital Marketing Strategy Development",
     about:
       "The wise man therefore always holds in these matters to this principlesimilique sunt in culpaqui officia deserunt",
     label: "Read More",

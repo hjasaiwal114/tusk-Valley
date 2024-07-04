@@ -43,19 +43,20 @@ const Footer = () => {
             <p className="flex jsutify-center items-center gap-3">
               <FaMapMarkedAlt className="text-limegreen size-8" />
               <span className="text-[16px] font-ubuntu text-slate-100">
-                374 Williams Canning Bivd, Fall River NA 2721, USA
+                KVG 6, KV Gardens, Kudappanakunnu, Trivandrum, Kerala, India -
+                695043
               </span>
             </p>
             <p className="flex jsutify-center items-center gap-3">
               <FaPhoneVolume className="text-limegreen size-8" />
               <span className="text-[16px] font-ubuntu text-slate-100">
-                +91 888 888 888
+                +918921075225
               </span>
             </p>
             <p className="flex jsutify-center items-center gap-3">
               <FaMapMarkedAlt className="text-limegreen size-8" />
               <span className="text-[16px] font-ubuntu text-slate-100">
-                support@Webagency.com
+                info@tuskervalleyconsultants.com
               </span>
             </p>
             <p className="flex jsutify-center items-center gap-3">
@@ -89,7 +90,7 @@ const Footer = () => {
       <section className="w-full bg-black m-auto border-y-2 border-slate-600 grid lg:grid-cols grid-cols-3 justify-between items-center lg:gap-28 gap-8 px-20 py-6">
         <div>
           <h1 className="text-white text-[17px]font-ubuntu text-center ">
-            Copyright 2024, Web Pulse, All Rights Reserved
+            Copyright 2024, Tusk Valley, All Rights Reserved
           </h1>
         </div>
         <div>

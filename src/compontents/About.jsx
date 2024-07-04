@@ -36,26 +36,30 @@ const About = () => {
           WHO WE ARE
         </h1>
         <h1 className="text-black font-semibold lg:text-[60px] text-[50px] lg:leading-[70px] leading-[60px] font-ubuntu">
-          The leading social media marketing agency
+          Tusker Valley Consultants
         </h1>
         <p className="font-ubuntu text-[18px] text-slate-700">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatibus
-          itaque ex deleniti veniam pariatur sapiente voluptas sint enim cumque
-          ullam, provident cupiditate explicabo ab, minima veritatis totam
-          consequuntur tempore repellendus.
+          Tusker Valley Consultants is a renowned marketing consultancy in
+          India, specializing in digital marketing, FMCG consulting, restaurant
+          consulting, and healthcare ventures. With an experience of more than 2
+          decades, we have assisted a number of West African FMCG firms,
+          restaurant startups, done healthcare collaborations, digital marketing
+          and more.
         </p>
         <div className="flex flex-col justify-center items-start gap-4">
           <p className="text-black flex justify-center items-center gap-4 font-ubuntu">
             <FaChevronCircleRight className="text-limegreen text-xl" />
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Similique,
+            Position the company as a one-stop solution for medical coding and
+            marketing needs in the healthcare industry.
           </p>
           <p className="text-black flex justify-center items-center gap-4 font-ubuntu">
             <FaChevronCircleRight className="text-limegreen text-xl" />
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Similique,
+            We are committed to excellence, integrity, and client satisfaction,
           </p>
           <p className="text-black flex justify-center items-center gap-4 font-ubuntu">
             <FaChevronCircleRight className="text-limegreen text-xl" />
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Similique,
+            Crafting personalized strategies to meet the unique marketing needs
+            of each client with precision and creativity.
           </p>
         </div>
         <button className="bg-limegreen px-6 py-4 rounded-full text-[17px] font-semibold font-ubuntu hover:bg-black hover:text-white transition duration-300 ease-in-out">

@@ -30,7 +30,8 @@ const Hero = () => {
           data-aos-delay="400"
           className="font-ubuntu text-[20px] text-slate-700"
         >
-          We design exceptional brands, products, web apps,
+          Tailored marketing strategies to drive success in digital, FMCG,
+          restaurants, and healthcare ventures
           <br />
           Websites for startups and enterprises.
         </p>
@@ -48,7 +49,7 @@ const Hero = () => {
         >
           <img src={clients} alt="" />
           <p className="font-ubuntu text-[20px] font-bold text-black">
-            Trusted by 5000+ Worldwide Brands & Customers
+            Trusted by Worldwide Brands & Customers
           </p>
         </div>
       </div>
