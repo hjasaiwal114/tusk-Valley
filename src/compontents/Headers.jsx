@@ -25,7 +25,7 @@ const Header = () => {
   return (
     <nav className="w-full flex bg-black justify-between items-center gap-1 lg:px-16 px-6 py-4 sticky top-0 z-50">
       <h1 className="text-white md:text-4xl text-3xl font-bold font-ubuntu">
-        Tusk <span className="text-limegreen italic">Valley</span>
+        Shiv <span className="text-limegreen italic">Nagar</span>
       </h1>
       <ul className="lg:flex justify-center items-center gap-8 hidden">
         {navItems.map(({ link, path }) => (
